@@ -1,0 +1,8 @@
+scikit-learn
+chardet
+jupyter
+notebook
+jupyterlab
+ipython
+ipykernel
+ipywidgets

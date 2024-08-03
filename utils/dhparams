@@ -1,0 +1,12 @@
+    DH Parameters: (512 bit)
+    P:   
+        00:e1:fd:04:23:52:ac:e6:10:d9:ea:0f:3a:44:0c:
+        5d:cd:2d:5c:8b:42:9a:22:43:1a:46:a9:c0:18:e6:
+        00:12:76:99:65:f0:40:02:8d:fa:29:c7:ff:87:d3:
+        2e:ea:56:fe:a7:19:1d:8a:41:75:83:5c:60:eb:91:
+        9d:5d:12:83:4f
+    G:    2 (0x2)
+-----BEGIN DH PARAMETERS-----
+MEYCQQDh/QQjUqzmENnqDzpEDF3NLVyLQpoiQxpGqcAY5gASdpll8EACjfopx/+H
+0y7qVv6nGR2KQXWDXGDrkZ1dEoNPAgEC
+-----END DH PARAMETERS-----
