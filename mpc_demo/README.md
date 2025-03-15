@@ -108,8 +108,10 @@ or separately:
 	$ pip install -r requirements.examples.txt
 
 	$ python -m ipykernel install --user --name=crypten
-	Installed kernelspec crypten in /home/ubuntu/.local/share/jupyter/kernels/crypten
+	Installed kernelspec crypten in /home/ofer/.local/share/jupyter/kernels/crypten
 
+	$ jupyter lab
+	or
 	$ jupyter lab  --no-browser
 
 

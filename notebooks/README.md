@@ -46,7 +46,7 @@ Install the following packages:
     $ conda install ipywidgets        
     
     $ ipython kernel install --user --name=ccc
-    Installed kernelspec ccc in /home/orivlinux/.local/share/jupyter/kernels/ccc
+    Installed kernelspec ccc in /home/ofer/.local/share/jupyter/kernels/ccc
 
 ## conda:
 (I installed the regular miniconda in aws ec2)    
@@ -72,5 +72,5 @@ Install the following packages:
     $ conda install anaconda::ipywidgets
 
     $ ipython kernel install --user --name=ccc
-    Installed kernelspec ccc in /home/ubuntu/.local/share/jupyter/kernels/ccc
+    Installed kernelspec ccc in /home/ofer/.local/share/jupyter/kernels/ccc
 
