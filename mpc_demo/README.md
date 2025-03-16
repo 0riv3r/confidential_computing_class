@@ -1,6 +1,9 @@
 # CrypTen
 ### Ofer's descryption
 
+env:
+conda activate crypten
+
 https://github.com/facebookresearch/CrypTen     
 https://pypi.org/project/crypten/            
 

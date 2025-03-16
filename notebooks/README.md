@@ -1,5 +1,9 @@
 # Confidential Computing Class - notebooks
 
+Env:
+conda activate ccc
+
+
 ## conda-forge
 An opensource conda           
 https://conda-forge.org       
