@@ -4,6 +4,8 @@
 env:
 conda activate crypten
 
+jupyter lab
+
 
 https://openmined.org/blog/crypten-integration-in-pysyft/
 https://github.com/facebookresearch/CrypTen/blob/main/tutorials/Introduction.ipynb
